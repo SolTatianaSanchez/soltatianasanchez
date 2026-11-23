@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Unity**
 
-- 👯 I’m looking to collaborate on **Unity Projects**
+- 👯 I’m looking to collaborate on **Unity Projects** **Web Projects**
 
 - 💬 Ask me about **HCL WCM DX**
 
